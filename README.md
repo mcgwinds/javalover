@@ -1,1 +1,5 @@
-# hello world
+# JVM
+- **java内存管理** 
+- **java内存模型** 
+- **编译执行** 
+- **JDK**
