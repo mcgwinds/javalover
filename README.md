@@ -3,3 +3,6 @@
 ###内存管理###
 [
 1. 内存空间与分配](https://github.com/mcgwinds/javalover/wiki/%E5%86%85%E5%AD%98%E7%A9%BA%E9%97%B4%E4%B8%8E%E5%88%86%E9%85%8D)
+
+[
+2. 内存回收](https://github.com/mcgwinds/javalover/wiki/%E5%86%85%E5%AD%98%E5%9B%9E%E6%94%B6)
